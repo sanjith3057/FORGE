@@ -96,3 +96,4 @@ Commit date: 2026-03-17T13:35:29 +0530 - Message: update tests
 Commit date: 2025-07-01T13:24:00 +0530 - Message: optimize performance
 Commit date: 2025-07-10T17:17:20 +0530 - Message: fix edge case
 Commit date: 2025-07-11T14:35:39 +0530 - Message: adjust formatting
+Commit date: 2025-07-15T10:05:58 +0530 - Message: update readme
