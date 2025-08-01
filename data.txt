@@ -99,3 +99,4 @@ Commit date: 2025-07-11T14:35:39 +0530 - Message: adjust formatting
 Commit date: 2025-07-15T10:05:58 +0530 - Message: update readme
 Commit date: 2025-07-17T09:10:44 +0530 - Message: refactor utils
 Commit date: 2025-07-31T23:16:03 +0530 - Message: adjust formatting
+Commit date: 2025-08-01T21:49:05 +0530 - Message: update dependencies
