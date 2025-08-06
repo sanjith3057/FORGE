@@ -101,3 +101,4 @@ Commit date: 2025-07-17T09:10:44 +0530 - Message: refactor utils
 Commit date: 2025-07-31T23:16:03 +0530 - Message: adjust formatting
 Commit date: 2025-08-01T21:49:05 +0530 - Message: update dependencies
 Commit date: 2025-08-04T10:36:15 +0530 - Message: improve structure
+Commit date: 2025-08-06T12:51:12 +0530 - Message: update notes
