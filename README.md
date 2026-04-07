@@ -179,6 +179,3 @@ Other projects in the series:
 MIT License — Free to use, modify, and learn from.
 
 ---
-
-**Built by Sanjith G**  
----
