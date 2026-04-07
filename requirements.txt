@@ -1,0 +1,15 @@
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.10.0
+trl>=0.8.0
+bitsandbytes>=0.43.0
+unsloth[colab-new]>=2024.4
+datasets>=2.18.0
+accelerate>=0.28.0
+rouge-score>=0.1.2
+streamlit>=1.32.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+requests>=2.31.0

@@ -1,0 +1,10 @@
+outputs/
+logs/
+.env
+__pycache__/
+*.pyc
+data/raw/
+.ipynb_checkpoints/
+wandb/
+.pytest_cache/
+.DS_Store
